@@ -12,6 +12,6 @@ case $fruit in
        echo "You chose cherry."
        ;;
    *)
-       echo "Invalid choice."
+       echo "Invalid choice sorry try again."
        ;;
 esac
